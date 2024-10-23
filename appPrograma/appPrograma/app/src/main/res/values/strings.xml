@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">appPrograma</string>
+    <string name="labelUsuario">Ingresar Usuario</string>
+    <string name="labelClave">Ingresar Clave</string>
+    <string name="labelNombre">Ingresar Nombre</string>
+    <string name="labelPaterno">Ingresar Apellido Paterno</string>
+    <string name="labelMaterno">Ingresar Apellido Materno</string>
+    <string name="labelSexo">Seleccione Sexo</string>
+    <string name="labelpelicula">Seleccione Pelicula</string>
+    <string name="labelSueldo">Ingresar Sueldo</string>
+    <string name="labelHijos">Ingresar Hijos</string>
+    <string-array name="sexos">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+</resources>
